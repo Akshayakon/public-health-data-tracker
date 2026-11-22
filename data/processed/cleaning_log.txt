@@ -1,0 +1,6 @@
+Country-day rows from cases file: 86,311
+Countries in both files: 198
+Clean rows: 146,025
+Countries with usable recovery data: 175 of 196
+Date range: 2020-01-22 to 2022-03-29
+Cases data ends: 2021-05-29 | Vaccination data ends: 2022-03-29
